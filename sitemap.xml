@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://fedeonline.github.io/resume/categories/</loc>
+    <loc>https://fedeonline.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://fedeonline.github.io/resume/</loc>
+    <loc>https://fedeonline.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://fedeonline.github.io/resume/tags/</loc>
+    <loc>https://fedeonline.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
