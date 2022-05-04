@@ -1,4 +1,5 @@
 baseURL = "https://fedeonline.github.io"
+publishDir = "docs"
 languageCode = "en-us"
 title = "About me"
 theme = "resume"
